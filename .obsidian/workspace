@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journal/2022-07-26.md",
+            "file": "journal/2022-07-28.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-07-26.md",
+                "file": "journal/2022-07-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2022-07-26.md",
+                "file": "journal/2022-07-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022-07-26.md"
+                "file": "journal/2022-07-28.md"
               }
             }
           }
@@ -131,12 +131,13 @@
   },
   "active": "c4b4ace677ef46f9",
   "lastOpenFiles": [
-    "journal/2022-07-24.md",
-    "journal/2022-07-25.md",
+    "journal/2022-07-27.md",
     "journal/2022-07-26.md",
-    "journal/2022-07-21.md",
-    "journal/2022-07-22.md",
+    "journal/2022-07-25.md",
     "journal/2022-07-23.md",
+    "journal/2022-07-24.md",
+    "journal/2022-07-22.md",
+    "journal/2022-07-21.md",
     "Templates/journalTemplate.md",
     "Schedule etc.md"
   ]
