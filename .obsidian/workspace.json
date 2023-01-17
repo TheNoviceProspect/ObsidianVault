@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0469c53b906f561a",
+        "id": "21d0d9504f325d67",
         "type": "tabs",
         "children": [
           {
-            "id": "95290aa97c6138df",
+            "id": "7002499d45a4e16c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Streaming/Schedule.md",
+                "file": "AV Editing/ffmpeg stuff.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -37,9 +37,12 @@
             "id": "c89a948f936e64f1",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "markdown",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "Streaming/Checklists/Recording Checklist - Jan17-2023.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -65,8 +68,19 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "8f701c4590dabfcd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Streaming/Schedule.md",
+                "file": "AV Editing/ffmpeg stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Streaming/Schedule.md",
+                "file": "AV Editing/ffmpeg stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Streaming/Schedule.md"
+                "file": "AV Editing/ffmpeg stuff.md"
               }
             }
           }
@@ -148,17 +162,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "95290aa97c6138df",
+  "active": "7002499d45a4e16c",
   "lastOpenFiles": [
-    "AV Editing/Audio Routing/Windows Desktop.md",
-    "AV Editing/Audio Routing/VoiceMeeter.md",
-    "AV Editing/Audio Routing/OBS.md",
-    "AV Editing/Audio Routing/MiraBox.md",
-    "AV Editing/Audio Routing/VoiceMod.md",
-    "AV Editing/OBS Settings.md",
-    "Streaming/Checklists/Recording Checklist - Jan16-2023.md",
     "Common Setups/Linux machine setup.md",
+    "AV Editing/ffmpeg stuff.md",
+    "AV Editing/Livecam settings.md",
     "AV Editing/OBS Cheatsheet.md",
-    "AV Editing/ffmpeg stuff.md"
+    "AV Editing/OBS Settings.md",
+    "Streaming/Checklists/Recording Checklist - Jan17-2023.md",
+    "Templates/Recording Checklist.md",
+    "CodeWars/Completed Solutions/Even or Odd Solution.md",
+    "CodeWars/Completed Katas CSharp.md",
+    "AV Editing/Some Document.md"
   ]
 }
