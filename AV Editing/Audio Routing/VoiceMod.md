@@ -1,0 +1,1 @@
+Takes Mic input and forwards it into its own device. This is then piped into [[AV Editing/Audio Routing/VoiceMeeter]]

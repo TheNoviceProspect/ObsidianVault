@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "716ab43abe706f43",
+        "id": "0469c53b906f561a",
         "type": "tabs",
         "children": [
           {
-            "id": "82b5918922723656",
+            "id": "95290aa97c6138df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Setups/Linux machine setup.md",
+                "file": "Streaming/Schedule.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Common Setups/Linux machine setup.md",
+                "file": "Streaming/Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Common Setups/Linux machine setup.md",
+                "file": "Streaming/Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Common Setups/Linux machine setup.md"
+                "file": "Streaming/Schedule.md"
               }
             }
           }
@@ -148,17 +148,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "82b5918922723656",
+  "active": "95290aa97c6138df",
   "lastOpenFiles": [
-    "AV Editing/OBS Cheatsheet.md",
-    "AV Editing/ffmpeg stuff.md",
+    "AV Editing/Audio Routing/Windows Desktop.md",
+    "AV Editing/Audio Routing/VoiceMeeter.md",
+    "AV Editing/Audio Routing/OBS.md",
+    "AV Editing/Audio Routing/MiraBox.md",
+    "AV Editing/Audio Routing/VoiceMod.md",
+    "AV Editing/OBS Settings.md",
     "Streaming/Checklists/Recording Checklist - Jan16-2023.md",
-    "Schedule etc.md",
-    "journal/2022-07-29.md",
-    "journal/2022-08-01.md",
-    "journal/2022-07-21.md",
-    "Templates/journalTemplate.md",
-    "journal/2022-08-02.md",
-    "journal/2022-07-28.md"
+    "Common Setups/Linux machine setup.md",
+    "AV Editing/OBS Cheatsheet.md",
+    "AV Editing/ffmpeg stuff.md"
   ]
 }

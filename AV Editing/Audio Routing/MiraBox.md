@@ -1,0 +1,1 @@
+Although this is capture device it still forwards Audio through HDMI
