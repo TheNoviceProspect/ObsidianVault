@@ -1,3 +1,16 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "newLinkFormat": "absolute",
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "attachmentFolderPath": "./attachments",
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-GB",
+    "en-GB-oxendict"
+  ]
 }
