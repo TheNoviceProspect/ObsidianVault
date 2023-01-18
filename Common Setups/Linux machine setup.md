@@ -44,3 +44,5 @@ and then inserting the following line (hitting TAB whenever you see the \<T> tag
 ```shell
 smzb <T> ALL=(ALL) <T> NOPASSWD: ALL
 ```
+
+> it may be worthwhile to include a screenshot here to show what it's supposed to look like
