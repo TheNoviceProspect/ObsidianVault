@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AV Editing/ffmpeg stuff.md",
+                "file": "Streaming/Best Practices.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AV Editing/ffmpeg stuff.md",
+                "file": "Streaming/Best Practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AV Editing/ffmpeg stuff.md",
+                "file": "Streaming/Best Practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AV Editing/ffmpeg stuff.md"
+                "file": "Streaming/Best Practices.md"
               }
             }
           }
@@ -162,13 +162,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7002499d45a4e16c",
+  "active": "8f701c4590dabfcd",
   "lastOpenFiles": [
-    "Common Setups/Linux machine setup.md",
+    "AV Editing/OBS Settings.md",
     "AV Editing/ffmpeg stuff.md",
+    "Common Setups/Linux machine setup.md",
     "AV Editing/Livecam settings.md",
     "AV Editing/OBS Cheatsheet.md",
-    "AV Editing/OBS Settings.md",
     "Streaming/Checklists/Recording Checklist - Jan17-2023.md",
     "Templates/Recording Checklist.md",
     "CodeWars/Completed Solutions/Even or Odd Solution.md",
