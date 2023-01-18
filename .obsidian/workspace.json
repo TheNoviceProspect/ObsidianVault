@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "AV Editing/OBS Cheatsheet.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "AV Editing/OBS Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "AV Editing/OBS Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "AV Editing/OBS Cheatsheet.md"
               }
             }
           }
@@ -164,6 +164,7 @@
   },
   "active": "7109eccb22dc9b6a",
   "lastOpenFiles": [
+    "README.md",
     "AV Editing/Audio Routing/NVidia Broadcast.md",
     "AV Editing/Hardware/FiFine Mic.md",
     "AV Editing/Hardware/M$ Livecam.md",
@@ -172,7 +173,6 @@
     "AV Editing/Audio Routing/VoiceMod.md",
     "AV Editing/OBS Settings.md",
     "AV Editing/Audio Routing/Windows Desktop.md",
-    "Streaming/Best Practices.md",
-    "AV Editing/ffmpeg stuff.md"
+    "Streaming/Best Practices.md"
   ]
 }
