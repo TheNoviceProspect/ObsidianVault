@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "21d0d9504f325d67",
+        "id": "28ba1f00718176a4",
         "type": "tabs",
         "children": [
           {
-            "id": "7002499d45a4e16c",
+            "id": "7109eccb22dc9b6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AV Editing/Audio Routing/NVidia Broadcast.md",
+                "file": "README.md.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AV Editing/Audio Routing/NVidia Broadcast.md",
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AV Editing/Audio Routing/NVidia Broadcast.md",
+                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AV Editing/Audio Routing/NVidia Broadcast.md"
+                "file": "README.md.md"
               }
             }
           }
@@ -162,13 +162,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7002499d45a4e16c",
+  "active": "7109eccb22dc9b6a",
   "lastOpenFiles": [
+    "AV Editing/Audio Routing/NVidia Broadcast.md",
     "AV Editing/Hardware/FiFine Mic.md",
     "AV Editing/Hardware/M$ Livecam.md",
     "AV Editing/Audio Routing/VoiceMeeter.md",
     "AV Editing/Audio Routing/OBS.md",
-    "AV Editing/Audio Routing/NVidia Broadcast.md",
     "AV Editing/Audio Routing/VoiceMod.md",
     "AV Editing/OBS Settings.md",
     "AV Editing/Audio Routing/Windows Desktop.md",
