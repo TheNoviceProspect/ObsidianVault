@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Streaming/Checklists/Recording Checklist - Jan18-2023.md",
+                "file": "AV Editing/OBS Cheatsheet.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Streaming/Checklists/Recording Checklist - Jan18-2023.md",
+                "file": "AV Editing/OBS Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Streaming/Checklists/Recording Checklist - Jan18-2023.md",
+                "file": "AV Editing/OBS Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Streaming/Checklists/Recording Checklist - Jan18-2023.md"
+                "file": "AV Editing/OBS Cheatsheet.md"
               }
             }
           }
@@ -149,14 +149,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0401799563c8b2c2",
+  "active": "7d551303451dd989",
   "lastOpenFiles": [
-    "Streaming/Checklists/Recording Checklist - Jan18-2023.md",
+    "AV Editing/OBS Settings.md",
     "Streaming/Checklists/Recording Checklist - Jan17-2023.md",
+    "Streaming/Checklists/Recording Checklist - Jan18-2023.md",
     "AV Editing/OBS Cheatsheet.md",
     "Common Setups/Linux machine setup.md",
     "Streaming/Best Practices.md",
-    "AV Editing/OBS Settings.md",
     "AV Editing/attachments/MacroKeyboard OBS Layout.png",
     "README.md",
     "AV Editing/Audio Routing/NVidia Broadcast.md",

@@ -3,7 +3,7 @@ creation date: 2023-01-17 13:33
 modification date: Tuesday 17th January 2023 13:33:06
 ---
 
-## Name of the Recording/Series & Episode #
+## Starsand EP04
 ### Pre-Recording
 - [x] Hydration available ✅ 2023-01-17
 - [x] Visibility/Glare ✅ 2023-01-17
