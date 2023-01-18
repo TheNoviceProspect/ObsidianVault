@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "776cb3807fb2fed7",
+        "id": "f689927e74b5cb90",
         "type": "tabs",
         "children": [
           {
-            "id": "7d551303451dd989",
+            "id": "e94a86e1d0af9bc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AV Editing/OBS Cheatsheet.md",
+                "file": "Common Setups/Linux machine setup.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AV Editing/OBS Cheatsheet.md",
+                "file": "Common Setups/Linux machine setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AV Editing/OBS Cheatsheet.md",
+                "file": "Common Setups/Linux machine setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AV Editing/OBS Cheatsheet.md"
+                "file": "Common Setups/Linux machine setup.md"
               }
             }
           }
@@ -149,12 +149,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7d551303451dd989",
+  "active": "e94a86e1d0af9bc1",
   "lastOpenFiles": [
+    "AV Editing/OBS Cheatsheet.md",
     "AV Editing/OBS Settings.md",
     "Streaming/Checklists/Recording Checklist - Jan17-2023.md",
     "Streaming/Checklists/Recording Checklist - Jan18-2023.md",
-    "AV Editing/OBS Cheatsheet.md",
     "Common Setups/Linux machine setup.md",
     "Streaming/Best Practices.md",
     "AV Editing/attachments/MacroKeyboard OBS Layout.png",
