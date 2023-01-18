@@ -15,7 +15,7 @@ but here's a few strategies to help when, no, **if** it happens:
 
 ## Single Player/Campaign Games
 
-- It may behove anyone recording, to store a *separate* save game at the end of each episode (where this is feasible)
+- It may behove anyone recording, to store a *separate* save ga*6me at the end of each episode (where this is feasible)
 `So, imagine recording a whole episode (nevermind the outcome) and then afterwards you realize there's no audio from one source or another`
 
 ## Multiplayer Games
