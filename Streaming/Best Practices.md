@@ -15,7 +15,7 @@ Don't rely on your stream reaching the platform (YT, Trovo, et al.) <-> **Always
 > 
 > Sorry boss.. No can do..
 
-but here's a few strategies to help when, no, **if** it happens:
+but here's a few strategies to help if, no, **when** it happens:
 
 ## Single Player/Campaign Games
 
@@ -26,5 +26,5 @@ but here's a few strategies to help when, no, **if** it happens:
 
 - When recording on shared multiplayer servers for your community it would be really advantageous to have another member of
   your community recording from their perspective.
-`Again, you loose part of your recording, you can fall back to other footage for that segment`
+`Again; if AND when you loose part, or all(!) of your footage, you can fall back to other footage for that segment/episode`
 
