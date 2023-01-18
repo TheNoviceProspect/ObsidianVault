@@ -1,6 +1,18 @@
 please note that any of the below pieces of advice aren't *The Meta* but are observations made through our own failings.
 (I will even provide anecdotal "*evidence*" where I can)
 
+# Rule #1 of Streaming
+You don't talk about streaming...
+I mean:
+Don't rely on your stream reaching the platform (YT, Trovo, et al.) <-> **Always Record every bit of footage**
+
+# Rule #2 How can I prevent loss of footage?
+
+The sad truth is, you.. you.. eh.. you.. you can't..
+Sorry boss.. No can do..
+
+but here's a few strategies to help when, no, **if** it happens:
+
 ## Single Player/Campaign Games
 
 - It may behove anyone recording, to store a *separate* save game at the end of each episode (where this is feasible)
