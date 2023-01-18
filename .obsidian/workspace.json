@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AV Editing/OBS Settings.md",
+                "file": "AV Editing/Audio Routing/NVidia Broadcast.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AV Editing/OBS Settings.md",
+                "file": "AV Editing/Audio Routing/NVidia Broadcast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AV Editing/OBS Settings.md",
+                "file": "AV Editing/Audio Routing/NVidia Broadcast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AV Editing/OBS Settings.md"
+                "file": "AV Editing/Audio Routing/NVidia Broadcast.md"
               }
             }
           }
@@ -164,15 +164,15 @@
   },
   "active": "7002499d45a4e16c",
   "lastOpenFiles": [
-    "AV Editing/M$ Livecam settings.md",
-    "Streaming/Best Practices.md",
+    "AV Editing/Hardware/FiFine Mic.md",
+    "AV Editing/Hardware/M$ Livecam.md",
+    "AV Editing/Audio Routing/VoiceMeeter.md",
+    "AV Editing/Audio Routing/OBS.md",
+    "AV Editing/Audio Routing/NVidia Broadcast.md",
+    "AV Editing/Audio Routing/VoiceMod.md",
     "AV Editing/OBS Settings.md",
-    "AV Editing/ffmpeg stuff.md",
-    "Common Setups/Linux machine setup.md",
-    "AV Editing/OBS Cheatsheet.md",
-    "Streaming/Checklists/Recording Checklist - Jan17-2023.md",
-    "Templates/Recording Checklist.md",
-    "CodeWars/Completed Solutions/Even or Odd Solution.md",
-    "CodeWars/Completed Katas CSharp.md"
+    "AV Editing/Audio Routing/Windows Desktop.md",
+    "Streaming/Best Practices.md",
+    "AV Editing/ffmpeg stuff.md"
   ]
 }

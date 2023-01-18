@@ -1,1 +1,1 @@
-Takes Mic input and forwards it into its own device. This is then piped into [[AV Editing/Audio Routing/VoiceMeeter]]
+Takes [[AV Editing/Audio Routing/NVidia Broadcast]] input and after applying its filtering, forwards it into its own device. This is then piped into [[AV Editing/Audio Routing/OBS]]

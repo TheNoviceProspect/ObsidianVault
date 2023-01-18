@@ -1,0 +1,3 @@
+NVidia Broadcast renders a **Noise Suppression** filter over the [[AV Editing/Hardware/FiFine Mic]] input and passes it out to its own output device. In this case we use it in [[AV Editing/Audio Routing/VoiceMod]]
+
+Additionally NVidia Broadcast also renders a **Background Removal** Filter (Performance) over the [[AV Editing/Hardware/M$ Livecam]] and pipes its output to [[AV Editing/Audio Routing/OBS]]
