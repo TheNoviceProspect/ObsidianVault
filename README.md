@@ -12,6 +12,7 @@ A collaborative knowledge-base
 I would recommend to allow the usage of community plugins to get the most out of this KB.
 
 >Remember, each Vault has its *own* set of plugins.
+>
 >Whatever plugins you may have enabled in your 'private' vault have **no** bearing on this vault (or any other) and vice-versa.
 
 ## Found a mistake? Want to contribute?
