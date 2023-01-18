@@ -6,7 +6,7 @@
   "trashOption": "local",
   "attachmentFolderPath": "./attachments",
   "readableLineLength": false,
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "showLineNumber": false,
   "spellcheck": true,
   "spellcheckLanguages": [
