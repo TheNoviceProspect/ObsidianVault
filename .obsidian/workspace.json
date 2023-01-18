@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Streaming/Best Practices.md",
+                "file": "AV Editing/OBS Settings.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Streaming/Best Practices.md",
+                "file": "AV Editing/OBS Settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Streaming/Best Practices.md",
+                "file": "AV Editing/OBS Settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Streaming/Best Practices.md"
+                "file": "AV Editing/OBS Settings.md"
               }
             }
           }
@@ -162,17 +162,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8f701c4590dabfcd",
+  "active": "7002499d45a4e16c",
   "lastOpenFiles": [
+    "AV Editing/M$ Livecam settings.md",
+    "Streaming/Best Practices.md",
     "AV Editing/OBS Settings.md",
     "AV Editing/ffmpeg stuff.md",
     "Common Setups/Linux machine setup.md",
-    "AV Editing/Livecam settings.md",
     "AV Editing/OBS Cheatsheet.md",
     "Streaming/Checklists/Recording Checklist - Jan17-2023.md",
     "Templates/Recording Checklist.md",
     "CodeWars/Completed Solutions/Even or Odd Solution.md",
-    "CodeWars/Completed Katas CSharp.md",
-    "AV Editing/Some Document.md"
+    "CodeWars/Completed Katas CSharp.md"
   ]
 }
