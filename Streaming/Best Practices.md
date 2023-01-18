@@ -8,8 +8,13 @@ Don't rely on your stream reaching the platform (YT, Trovo, et al.) <-> **Always
 
 # Rule #2 How can I prevent loss of footage?
 
-The sad truth is, you.. you.. eh.. you.. you can't..
-Sorry boss.. No can do..
+The sad truth is, you.. 
+you.. 
+eh.. 
+you.. 
+you can't..
+Sorry boss.. 
+No can do..
 
 but here's a few strategies to help when, no, **if** it happens:
 
