@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dedicated Server Stuff/Machines/Yosemite.md",
+                "file": "Dedicated Server Stuff/Machines/Ark.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c03707d91e97f1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Servers/Mod Info/Wormhole Plugin SE.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9e587c579d307fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dedicated Server Stuff/Machines/Gozer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dedicated Server Stuff/Machines/Yosemite.md",
+                "file": "Dedicated Server Stuff/Machines/Gozer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dedicated Server Stuff/Machines/Yosemite.md",
+                "file": "Dedicated Server Stuff/Machines/Gozer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dedicated Server Stuff/Machines/Yosemite.md"
+                "file": "Dedicated Server Stuff/Machines/Gozer.md"
               }
             }
           }
@@ -162,17 +189,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e4304f41857321ea",
+  "active": "c9e587c579d307fc",
   "lastOpenFiles": [
+    "AV Editing/OBS Cheatsheet.md",
+    "Game Servers/Space Engineers.md",
+    "Common Setups/Reverse Proxy Setup/Untitled.md",
+    "Game Servers/Mod Info/Wormhole Plugin SE.md",
+    "Dedicated Server Stuff/Machines/Ark.md",
+    "Dedicated Server Stuff/Machines/Elmer.md",
+    "Dedicated Server Stuff/Machines/Yosemite.md",
     "Dedicated Server Stuff/Machines/Gozer2.md",
     "Dedicated Server Stuff/Machines/Gozer.md",
-    "Dedicated Server Stuff/Machines/Elmer.md",
-    "Dedicated Server Stuff/Machines/Ark.md",
-    "Streaming/Checklists/Recording Checklist - Jan19-2023.md",
-    "Game Servers/Space Engineers.md",
-    "Dedicated Server Stuff/Machines/Yosemite.md",
-    "Game Servers/Ark Survival Evolved.md",
-    "Game Servers/The Forest.md",
-    "Common Setups/Linux machine setup.md"
+    "Streaming/Checklists/Recording Checklist - Jan19-2023.md"
   ]
 }
