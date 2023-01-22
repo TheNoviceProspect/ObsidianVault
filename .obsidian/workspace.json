@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dedicated Server Stuff/Machines/Gozer.md",
+                "file": "Common Setups/Linux machine setup.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dedicated Server Stuff/Machines/Gozer.md",
+                "file": "Common Setups/Linux machine setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dedicated Server Stuff/Machines/Gozer.md",
+                "file": "Common Setups/Linux machine setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dedicated Server Stuff/Machines/Gozer.md"
+                "file": "Common Setups/Linux machine setup.md"
               }
             }
           }
@@ -191,6 +191,7 @@
   },
   "active": "c9e587c579d307fc",
   "lastOpenFiles": [
+    "Dedicated Server Stuff/Machines/Gozer.md",
     "AV Editing/OBS Cheatsheet.md",
     "Game Servers/Space Engineers.md",
     "Common Setups/Reverse Proxy Setup/Untitled.md",
@@ -199,7 +200,6 @@
     "Dedicated Server Stuff/Machines/Elmer.md",
     "Dedicated Server Stuff/Machines/Yosemite.md",
     "Dedicated Server Stuff/Machines/Gozer2.md",
-    "Dedicated Server Stuff/Machines/Gozer.md",
     "Streaming/Checklists/Recording Checklist - Jan19-2023.md"
   ]
 }
