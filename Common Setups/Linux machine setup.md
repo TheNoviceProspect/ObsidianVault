@@ -2,7 +2,7 @@ this all assumes a 'debian-esque' Linux such as ubuntu or linux mint and other s
 ```bash
 apt update; apt upgrade -yq; apt dist-upgrade -yq; apt full-upgrade -yq; apt autoremove --purge -yq; apt autoclean -yq
 apt install -yq sudo zsh tmux byobu emacs mc curl wget neofetch lolcat
-useradd -U -s /usr/bin/zsh -M -G sudo -d /home/smzb smzb
+useradd -U -s /usr/bin/zsh -m -G sudo -d /home/smzb smzb
 passwd smzb
 ```
 then enter a password
