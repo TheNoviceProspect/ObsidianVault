@@ -186,20 +186,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "meld-encrypt:Create new encrypted note": false
     }
   },
   "active": "c9e587c579d307fc",
   "lastOpenFiles": [
+    "Common Setups/DNS/Porkbun NS addresses.md",
+    "Common Setups/DNS/setting up a subdomain.md",
+    "Game Servers/Steam IDs.encrypted",
+    "Game Servers/Space Engineers.md",
+    "Game Servers/Steam IDs.md",
+    "Common Setups/Linux machine setup.md",
     "Dedicated Server Stuff/Machines/Gozer.md",
     "AV Editing/OBS Cheatsheet.md",
-    "Game Servers/Space Engineers.md",
     "Common Setups/Reverse Proxy Setup/Untitled.md",
-    "Game Servers/Mod Info/Wormhole Plugin SE.md",
-    "Dedicated Server Stuff/Machines/Ark.md",
-    "Dedicated Server Stuff/Machines/Elmer.md",
-    "Dedicated Server Stuff/Machines/Yosemite.md",
-    "Dedicated Server Stuff/Machines/Gozer2.md",
-    "Streaming/Checklists/Recording Checklist - Jan19-2023.md"
+    "Game Servers/Mod Info/Wormhole Plugin SE.md"
   ]
 }

@@ -46,3 +46,8 @@ smzb <T> ALL=(ALL) <T> NOPASSWD: ALL
 ```
 
 > it may be worthwhile to include a screenshot here to show what it's supposed to look like
+
+Once you are a "standard" user you should be updating your system (periodically) thusly:
+```shell
+sudo apt update; sudo apt upgrade -yq; sudo apt dist-upgrade -yq; sudo apt full-upgrade -yq; sudo apt autoremove --purge -yq; sudo apt autoclean -yq
+```
