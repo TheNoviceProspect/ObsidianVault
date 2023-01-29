@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Servers/Ark Survival Evolved.md",
+                "file": "Game Servers/Space Engineers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Servers/Ark Survival Evolved.md",
+                "file": "Game Servers/Space Engineers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Servers/Ark Survival Evolved.md",
+                "file": "Game Servers/Space Engineers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Servers/Ark Survival Evolved.md"
+                "file": "Game Servers/Space Engineers.md"
               }
             }
           }
@@ -179,6 +179,7 @@
   },
   "active": "2c03707d91e97f1c",
   "lastOpenFiles": [
+    "Game Servers/Ark Survival Evolved.md",
     "Common Setups/Reverse Proxy Setup/Untitled.md",
     "Common Setups/Linux machine setup.md",
     "Game Servers/Mod Info/Wormhole Plugin SE.md",
@@ -187,7 +188,6 @@
     "Common Setups/DNS/setting up a subdomain.md",
     "Game Servers/Space Engineers.md",
     "Game Servers/Steam IDs.md",
-    "Dedicated Server Stuff/Machines/Gozer.md",
-    "AV Editing/OBS Cheatsheet.md"
+    "Dedicated Server Stuff/Machines/Gozer.md"
   ]
 }
