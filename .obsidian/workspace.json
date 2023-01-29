@@ -179,9 +179,9 @@
   },
   "active": "6803dfc88e2a5ac5",
   "lastOpenFiles": [
-    "Common Setups/Reverse Proxy Setup/SSL Setup.md",
-    "Common Setups/Reverse Proxy Setup/Nginx Setup.md",
     "Common Setups/DNS/setting up a subdomain.md",
+    "Common Setups/Reverse Proxy Setup/Nginx Setup.md",
+    "Common Setups/Reverse Proxy Setup/SSL Setup.md",
     "Dedicated Server Stuff/Machines/Ark.md",
     "Common Setups/DNS/Porkbun NS addresses.md",
     "Game Servers/Space Engineers.md",
