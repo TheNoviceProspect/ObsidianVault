@@ -26,7 +26,7 @@ Now lets enable and start our reverse proxy
 now you can even go and follow the [[Common Setups/Reverse Proxy Setup/SSL Setup]]
 
 after that you can expect to wait a few minutes for the SSL certificates to propagate, but should be able to visit:
-https://webmin.games.tnp.me.uk
+> http(s)://webmin.games.tnp.me.uk
 
 (Please be aware that certain services will require changes on their end to detect this ip redirect)
 (Webmin specifically requires you to set `trust_real_ip=1` in `/etc/webmin/miniserv.conf`)
