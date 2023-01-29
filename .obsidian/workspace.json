@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Setups/Reverse Proxy Setup/Nginx Setup.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6803dfc88e2a5ac5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Common Setups/Reverse Proxy Setup/Nginx Setup.md",
+                "file": "Common Setups/Linux machine setup.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Common Setups/Reverse Proxy Setup/Nginx Setup.md",
+                "file": "Common Setups/Linux machine setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Common Setups/Reverse Proxy Setup/Nginx Setup.md",
+                "file": "Common Setups/Linux machine setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Common Setups/Reverse Proxy Setup/Nginx Setup.md"
+                "file": "Common Setups/Linux machine setup.md"
               }
             }
           }
@@ -177,10 +163,10 @@
       "meld-encrypt:Create new encrypted note": false
     }
   },
-  "active": "6803dfc88e2a5ac5",
+  "active": "e4304f41857321ea",
   "lastOpenFiles": [
-    "Common Setups/DNS/setting up a subdomain.md",
     "Common Setups/Reverse Proxy Setup/Nginx Setup.md",
+    "Common Setups/DNS/setting up a subdomain.md",
     "Common Setups/Reverse Proxy Setup/SSL Setup.md",
     "Dedicated Server Stuff/Machines/Ark.md",
     "Common Setups/DNS/Porkbun NS addresses.md",
