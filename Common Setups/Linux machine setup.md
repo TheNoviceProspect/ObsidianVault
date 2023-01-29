@@ -34,6 +34,11 @@ finally a zsh tweak: add this
 
 to ~/.zshrc at the end.
 
+And now for a little pizzaz
+```bash
+echo "neofetch|lolcat" >> ~/.zshrc-personal
+```
+
 That's it, you should now have a running linux system ready to install whatever packages you want to.
 
 At the very end you *can* if you so choose, enable password less sudo via this:
