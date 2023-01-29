@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dedicated Server Stuff/Machines/Ark.md",
+                "file": "Common Setups/Reverse Proxy Setup/Nginx Setup.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "2c03707d91e97f1c",
+            "id": "6803dfc88e2a5ac5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Servers/Space Engineers.md",
+                "file": "Common Setups/Reverse Proxy Setup/Nginx Setup.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Servers/Space Engineers.md",
+                "file": "Common Setups/Reverse Proxy Setup/Nginx Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Servers/Space Engineers.md",
+                "file": "Common Setups/Reverse Proxy Setup/Nginx Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Servers/Space Engineers.md"
+                "file": "Common Setups/Reverse Proxy Setup/Nginx Setup.md"
               }
             }
           }
@@ -177,17 +177,17 @@
       "meld-encrypt:Create new encrypted note": false
     }
   },
-  "active": "2c03707d91e97f1c",
+  "active": "6803dfc88e2a5ac5",
   "lastOpenFiles": [
+    "Common Setups/Reverse Proxy Setup/SSL Setup.md",
+    "Common Setups/Reverse Proxy Setup/Nginx Setup.md",
+    "Common Setups/DNS/setting up a subdomain.md",
+    "Dedicated Server Stuff/Machines/Ark.md",
+    "Common Setups/DNS/Porkbun NS addresses.md",
+    "Game Servers/Space Engineers.md",
     "Game Servers/Ark Survival Evolved.md",
-    "Common Setups/Reverse Proxy Setup/Untitled.md",
     "Common Setups/Linux machine setup.md",
     "Game Servers/Mod Info/Wormhole Plugin SE.md",
-    "Game Servers/Steam IDs.encrypted",
-    "Common Setups/DNS/Porkbun NS addresses.md",
-    "Common Setups/DNS/setting up a subdomain.md",
-    "Game Servers/Space Engineers.md",
-    "Game Servers/Steam IDs.md",
-    "Dedicated Server Stuff/Machines/Gozer.md"
+    "Game Servers/Steam IDs.encrypted"
   ]
 }
