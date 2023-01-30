@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Setups/Nextcloud setup.md",
+                "file": "Common Setups/SQL stuff.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Common Setups/Nextcloud setup.md",
+                "file": "Common Setups/SQL stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Common Setups/Nextcloud setup.md",
+                "file": "Common Setups/SQL stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Common Setups/Nextcloud setup.md"
+                "file": "Common Setups/SQL stuff.md"
               }
             }
           }
@@ -192,8 +192,8 @@
   },
   "active": "40aed6f764cc0b74",
   "lastOpenFiles": [
-    "Common Setups/SQl stuff.md",
     "Common Setups/Nextcloud setup.md",
+    "Common Setups/SQL stuff.md",
     "Common Setups/DNS/setting up a subdomain.md",
     "Common Setups/Linux machine setup.md",
     "Common Setups/Reverse Proxy Setup/Nginx Setup.md",
