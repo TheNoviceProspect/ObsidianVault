@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Setups/Linux machine setup.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Common Setups/Linux machine setup.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Common Setups/Linux machine setup.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Common Setups/Linux machine setup.md"
+                "file": "README.md"
               }
             }
           }
@@ -165,11 +165,11 @@
   },
   "active": "e4304f41857321ea",
   "lastOpenFiles": [
-    "Common Setups/Nextcloud setup.md",
     "Dedicated Server Stuff/Auth/Nextcloud Access.encrypted",
+    "Common Setups/Linux machine setup.md",
+    "Common Setups/Nextcloud setup.md",
     "Common Setups/SQL stuff.md",
     "Common Setups/DNS/setting up a subdomain.md",
-    "Common Setups/Linux machine setup.md",
     "Common Setups/Reverse Proxy Setup/Nginx Setup.md",
     "Common Setups/Reverse Proxy Setup/SSL Setup.md",
     "Dedicated Server Stuff/Machines/Ark.md",
