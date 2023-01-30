@@ -1,3 +1,5 @@
+### Please be aware that you should be replacing the name smzb *everytime* you see it in the scripts
+
 this all assumes a 'debian-esque' Linux such as ubuntu or linux mint and other such derivatives.
 ```bash
 apt update; apt upgrade -yq; apt dist-upgrade -yq; apt full-upgrade -yq; apt autoremove --purge -yq; apt autoclean -yq
@@ -34,7 +36,7 @@ finally a zsh tweak: add this
 
 to ~/.zshrc at the end.
 
-And now for a little pizzaz
+And now for a little *pizzaz*
 ```bash
 echo "neofetch|lolcat" >> ~/.zshrc-personal
 ```
