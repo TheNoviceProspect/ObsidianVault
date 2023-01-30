@@ -13,13 +13,14 @@ probably time to reboot as-well
 first login:
 simply hit either '0' or 'q' to not worry about zsh config
 
+Oh My Zsh Install
 ```zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 omz theme set bira
 omz plugin enable git sudo extract command-not-found
 ```
 
-install emacs prelude:
+(optional) install emacs prelude:
 ```zsh
 curl -L https://git.io/epre | sh
 nano ~/.emacs.d/personal/prelude-modules.el
