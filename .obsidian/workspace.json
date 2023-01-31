@@ -13,7 +13,7 @@
             "state": {
               "type": "meld-encrypted-file-content-view",
               "state": {
-                "file": "VPN Profiles.encrypted"
+                "file": "Dedicated Server Stuff/Auth/VPN Profiles.encrypted"
               }
             }
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VPN Profiles.encrypted",
+                "file": "Dedicated Server Stuff/Auth/VPN Profiles.encrypted",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VPN Profiles.encrypted",
+                "file": "Dedicated Server Stuff/Auth/VPN Profiles.encrypted",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VPN Profiles.encrypted"
+                "file": "Dedicated Server Stuff/Auth/VPN Profiles.encrypted"
               }
             }
           }
@@ -160,7 +160,7 @@
       "meld-encrypt:Create new encrypted note": false
     }
   },
-  "active": "e4304f41857321ea",
+  "active": "262a5078570f617e",
   "lastOpenFiles": [
     "README.md",
     "Dedicated Server Stuff/Auth/Nextcloud Access.encrypted",
