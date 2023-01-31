@@ -11,9 +11,12 @@
             "id": "e4304f41857321ea",
             "type": "leaf",
             "state": {
-              "type": "meld-encrypted-file-content-view",
+              "type": "markdown",
               "state": {
-                "file": "Dedicated Server Stuff/Auth/VPN Profiles.encrypted"
+                "file": "Common Setups/Linux machine setup.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dedicated Server Stuff/Auth/VPN Profiles.encrypted",
+                "file": "Common Setups/Linux machine setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dedicated Server Stuff/Auth/VPN Profiles.encrypted",
+                "file": "Common Setups/Linux machine setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dedicated Server Stuff/Auth/VPN Profiles.encrypted"
+                "file": "Common Setups/Linux machine setup.md"
               }
             }
           }
@@ -160,17 +163,17 @@
       "meld-encrypt:Create new encrypted note": false
     }
   },
-  "active": "262a5078570f617e",
+  "active": "e4304f41857321ea",
   "lastOpenFiles": [
-    "README.md",
-    "Dedicated Server Stuff/Auth/Nextcloud Access.encrypted",
-    "Common Setups/Linux machine setup.md",
-    "Common Setups/Nextcloud setup.md",
-    "Common Setups/SQL stuff.md",
-    "Common Setups/DNS/setting up a subdomain.md",
     "Common Setups/Reverse Proxy Setup/Nginx Setup.md",
     "Common Setups/Reverse Proxy Setup/SSL Setup.md",
-    "Dedicated Server Stuff/Machines/Ark.md",
-    "Common Setups/DNS/Porkbun NS addresses.md"
+    "Common Setups/Linux machine setup.md",
+    "Common Setups/Nextcloud setup.md",
+    "Dedicated Server Stuff/Auth/VPN Profiles.encrypted",
+    "README.md",
+    "Dedicated Server Stuff/Auth/Nextcloud Access.encrypted",
+    "Common Setups/SQL stuff.md",
+    "Common Setups/DNS/setting up a subdomain.md",
+    "Dedicated Server Stuff/Machines/Ark.md"
   ]
 }

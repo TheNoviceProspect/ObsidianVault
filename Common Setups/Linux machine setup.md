@@ -1,5 +1,7 @@
 ### Please be aware that you should be replacing the name smzb *everytime* you see it in the scripts
 
+## Update and installing software
+
 this all assumes a 'debian-esque' Linux such as ubuntu or linux mint and other such derivatives.
 ```bash
 apt update; apt upgrade -yq; apt dist-upgrade -yq; apt full-upgrade -yq; apt autoremove --purge -yq; apt autoclean -yq
@@ -10,7 +12,14 @@ passwd smzb
 then enter a password
 probably time to reboot as-well
 
-first login:
+## Securing 'root' user
+
+```bash
+sudo usermod -L root
+```
+this locks the root user account and prevents login attempts against it
+
+## First login
 simply hit either '0' or 'q' to not worry about zsh config
 
 Oh My Zsh Install
@@ -29,6 +38,8 @@ nano ~/.emacs.d/personal/prelude-modules.el
 and enable/disable plugins by commenting them in/out
 
 first emacs start will take a while, during initialization of plugins through ELPA/MELPA
+
+## Final tweaks
 
 finally a zsh tweak: add this 
 ```rc
@@ -53,8 +64,9 @@ and then inserting the following line (hitting TAB whenever you see the \<T> tag
 smzb <T> ALL=(ALL) <T> NOPASSWD: ALL
 ```
 
-> it may be worthwhile to include a screenshot here to show what it's supposed to look like
+> screenshot: ![[Common Setups/attachments/Pasted image 20230131101608.png]]
 
+## Updating your machine
 Once you are a "standard" user you should be updating your system (periodically) thusly:
 ```shell
 sudo apt update; sudo apt upgrade -yq; sudo apt dist-upgrade -yq; sudo apt full-upgrade -yq; sudo apt autoremove --purge -yq; sudo apt autoclean -yq
