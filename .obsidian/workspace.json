@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Setups/Linux machine setup.md",
+                "file": "Common Setups/Docker/Docker compose on SystemD.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Common Setups/Linux machine setup.md",
+                "file": "Common Setups/Docker/Docker compose on SystemD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Common Setups/Linux machine setup.md",
+                "file": "Common Setups/Docker/Docker compose on SystemD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Common Setups/Linux machine setup.md"
+                "file": "Common Setups/Docker/Docker compose on SystemD.md"
               }
             }
           }
@@ -165,15 +165,15 @@
   },
   "active": "e4304f41857321ea",
   "lastOpenFiles": [
-    "Common Setups/Reverse Proxy Setup/Nginx Setup.md",
-    "Common Setups/Reverse Proxy Setup/SSL Setup.md",
     "Common Setups/Linux machine setup.md",
+    "Common Setups/Docker/Docker compose on SystemD.md",
+    "Common Setups/Reverse Proxy Setup/Nginx Setup.md",
+    "CodeWars/Completed Katas CSharp.md",
+    "CodeWars/Completed Solutions/Convert a String to a Number Solution.md",
+    "CodeWars/Completed Solutions/Invert Values Solution.md",
+    "Common Setups/Reverse Proxy Setup/SSL Setup.md",
     "Common Setups/Nextcloud setup.md",
     "Dedicated Server Stuff/Auth/VPN Profiles.encrypted",
-    "README.md",
-    "Dedicated Server Stuff/Auth/Nextcloud Access.encrypted",
-    "Common Setups/SQL stuff.md",
-    "Common Setups/DNS/setting up a subdomain.md",
-    "Dedicated Server Stuff/Machines/Ark.md"
+    "README.md"
   ]
 }

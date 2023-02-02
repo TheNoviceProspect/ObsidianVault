@@ -55,7 +55,7 @@ echo "neofetch|lolcat" >> ~/.zshrc-personal
 
 That's it, you should now have a running linux system ready to install whatever packages you want to.
 
-At the very end you *can* if you so choose, enable password less sudo via this:
+At the very end you *can* if you so choose, enable password-less sudo via this:
 ```shell
 sudo emacs /etc/sudoers.d/smzb
 ```
