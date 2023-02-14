@@ -71,3 +71,10 @@ Once you are a "standard" user you should be updating your system (periodically)
 ```shell
 sudo apt update; sudo apt upgrade -yq; sudo apt dist-upgrade -yq; sudo apt full-upgrade -yq; sudo apt autoremove --purge -yq; sudo apt autoclean -yq
 ```
+
+## Git settings
+```sh
+git config --global user.email "<email>"
+git config --global user.name "<Your full name>"
+git config --global init.defaultBranch main
+```
