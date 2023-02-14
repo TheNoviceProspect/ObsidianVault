@@ -6,10 +6,22 @@ this all assumes a 'debian-esque' Linux such as ubuntu or linux mint and other s
 ```bash
 apt update; apt upgrade -yq; apt dist-upgrade -yq; apt full-upgrade -yq; apt autoremove --purge -yq; apt autoclean -yq
 apt install -yq sudo zsh tmux byobu emacs-nox mc curl wget neofetch lolcat git htop
+```
+
+#### if no user has been created during the OS install:
+```sh
 useradd -U -s /usr/bin/zsh -m -G sudo -d /home/smzb smzb
 passwd smzb
 ```
+
 then enter a password
+
+#### if a user *has* been created during install
+
+```sh
+usermod -s /usr/bin/zsh -aG sudo smzb
+```
+
 probably time to reboot as-well
 
 ## Securing 'root' user
