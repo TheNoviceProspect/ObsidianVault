@@ -1,0 +1,3 @@
+- implement mailer through mailchimp or similar, not dealing with spam ratings etc
+- docker traefik combo for tcp-udp stuff
+  - think about implementing k8s instead TalosOS or just a debian with k3s
