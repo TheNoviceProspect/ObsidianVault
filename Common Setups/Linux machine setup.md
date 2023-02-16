@@ -54,15 +54,15 @@ first emacs start will take a while, during initialization of plugins through EL
 ## Final tweaks
 
 finally a zsh tweak: add this 
-```rc
-[[ -f ~/.zshrc-personal ]] && . ~/.zshrc-personal
+```sh
+echo "[[ -f ~/.zshrc-personal ]] && . ~/.zshrc-personal" >> ~/.zshrc
 ```
 
 to ~/.zshrc at the end.
 
 And now for a little *pizzaz*
 ```bash
-echo "neofetch|lolcat" >> ~/.zshrc-personal
+echo "clear;neofetch|lolcat" >> ~/.zshrc-personal
 ```
 
 That's it, you should now have a running linux system ready to install whatever packages you want to.
