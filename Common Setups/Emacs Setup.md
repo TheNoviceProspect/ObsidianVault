@@ -72,19 +72,19 @@ If you wanted to you could also add my full config
         auto-save-list-file-prefix (concat auto-saves-dir ".saves-")
         tramp-backup-directory-alist `((".*" . ,backup-dir))
         tramp-auto-save-directory auto-saves-dir))
-
 (setq backup-by-copying t    ; Don't delink hardlinks                           
       delete-old-versions t  ; Clean up the backups                             
       version-control t      ; Use version numbers on backups,                  
       kept-new-versions 5    ; keep some new versions                           
       kept-old-versions 2)   ; and some old ones, too     
 
-;; Make sure we only have to answer wity y or n
+;; Make sure we only have to answer with y or n
 (defalias 'yes-or-no-p 'y-or-n-p)
 
-; Set emacs to remember last editing positions
-(setq save-place-file "~/.emacs.d/saveplace")
+;; Set emacs to remember last editing positions
 (setq-default save-place-mode 1)
+;; And where to place the marker-file
+(setq save-place-file "~/.emacs.d/saveplace")
 
 ;; Maximise(if we can) the window initially
 (add-to-list 'default-frame-alist '(fullscreen . maximized))
@@ -102,9 +102,9 @@ If you wanted to you could also add my full config
 (use-package darcula-theme
 :ensure t
 :config
-(load-theme 'darcula t)
-; and set a default font
-(set-frame-font "Liberation Mono-12"))
+(load-theme 'darcula t)                ;; load the theme
+(set-frame-font "Liberation Mono-12")  ;; and set a default font
+)
 
 ; Some user options for line numbers
 (custom-set-variables
@@ -112,10 +112,10 @@ If you wanted to you could also add my full config
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
- '(display-line-numbers 'visual)
- '(initial-buffer-choice t)
+ '(display-line-numbers 'visual) ;; This sets relative line numbers
+ '(initial-buffer-choice t)      :: This sets the initial buffer to the *scratch* buffer
  '(package-selected-packages
-   '(helpful magithub magit darcula-theme use-package)))
+   '(helpful magithub magit darcula-theme use-package)))  ;; Install some needed packages
 
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
