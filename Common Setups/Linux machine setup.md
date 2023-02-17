@@ -41,15 +41,9 @@ omz theme set bira
 omz plugin enable git sudo extract command-not-found
 ```
 
-(optional) install emacs prelude:
-```zsh
-curl -L https://git.io/epre | sh
-nano ~/.emacs.d/personal/prelude-modules.el
-```
-
-and enable/disable plugins by commenting them in/out
-
-first emacs start will take a while, during initialization of plugins through ELPA/MELPA
+Emacs setup:
+grab the contents of my example under [[Common Setups/Emacs Setup]] and paste them into `.emacs.d/init.el`
+first emacs start will take a little while, during initialization of plugins through ELPA/MELPA
 
 ## Final tweaks
 

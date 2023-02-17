@@ -61,9 +61,9 @@ If you wanted to you could also add my full config
 
 # Example Config
 ```el
-;; Put backup files neatly away
-(let ((backup-dir "~/.local/emacs-backups")
-      (auto-saves-dir "~/.local/emacs-auto-saves/"))
+;; Put backup files neatly away                                                 
+(let ((backup-dir "~/.emacs.d/backups")
+      (auto-saves-dir "~/.emacs.d/auto-saves/"))
   (dolist (dir (list backup-dir auto-saves-dir))
     (when (not (file-directory-p dir))
       (make-directory dir t)))
@@ -77,11 +77,17 @@ If you wanted to you could also add my full config
       delete-old-versions t  ; Clean up the backups                             
       version-control t      ; Use version numbers on backups,                  
       kept-new-versions 5    ; keep some new versions                           
-      kept-old-versions 2)   ; and some old ones, too
+      kept-old-versions 2)   ; and some old ones, too     
+
+;; Make sure we only have to answer wity y or n
+(defalias 'yes-or-no-p 'y-or-n-p)
 
 ; Set emacs to remember last editing positions
 (setq save-place-file "~/.emacs.d/saveplace")
 (setq-default save-place-mode 1)
+
+;; Maximise(if we can) the window initially
+(add-to-list 'default-frame-alist '(fullscreen . maximized))
 
 ; Setup Melpa as a package archive and enable the 'use-package' function
 (require 'package)
@@ -102,10 +108,19 @@ If you wanted to you could also add my full config
 
 ; Some user options for line numbers
 (custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
  '(display-line-numbers 'visual)
- '(initial-buffer-choice "~/workspace/")
- '(package-selected-packages '(darcula-theme use-package)))
+ '(initial-buffer-choice t)
+ '(package-selected-packages
+   '(helpful magithub magit darcula-theme use-package)))
 
 (custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
  )
 ```
