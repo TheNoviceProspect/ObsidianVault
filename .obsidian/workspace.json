@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Setups/Emacs Setup.md",
+                "file": "Common Setups/Linux machine setup.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Common Setups/Emacs Setup.md",
+                "file": "Common Setups/Linux machine setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Common Setups/Emacs Setup.md",
+                "file": "Common Setups/Linux machine setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Common Setups/Emacs Setup.md"
+                "file": "Common Setups/Linux machine setup.md"
               }
             }
           }
@@ -205,11 +205,11 @@
   },
   "active": "881e9ff9cd4032f4",
   "lastOpenFiles": [
+    "Common Setups/Emacs Setup.md",
     "Common Setups/Nextcloud setup.md",
     "TODO.md",
     "Common Setups/Webhost Setup/ISPConfig.md",
     "Common Setups/Linux machine setup.md",
-    "Common Setups/Emacs Setup.md",
     "Common Setups/Docker/Docker compose on SystemD.md",
     "Common Setups/Reverse Proxy Setup/Nginx Setup.md",
     "CodeWars/Completed Katas CSharp.md",

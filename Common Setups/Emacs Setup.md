@@ -61,9 +61,9 @@ If you wanted to you could also add my full config
 
 # Example Config
 ```el
-;; Put backup files neatly away                                                 
-(let ((backup-dir "~/.emacs.d/backups")
-      (auto-saves-dir "~/emacs.d/auto-saves/"))
+;; Put backup files neatly away
+(let ((backup-dir "~/.local/emacs-backups")
+      (auto-saves-dir "~/.local/emacs-auto-saves/"))
   (dolist (dir (list backup-dir auto-saves-dir))
     (when (not (file-directory-p dir))
       (make-directory dir t)))
