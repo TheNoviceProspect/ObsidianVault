@@ -81,8 +81,7 @@ If you wanted to you could also add my full config
 
 ; Set emacs to remember last editing positions
 (setq save-place-file "~/.emacs.d/saveplace")
-(setq-default save-place t)
-(require 'saveplace)
+(setq-default save-place-mode 1)
 
 ; Setup Melpa as a package archive and enable the 'use-package' function
 (require 'package)
