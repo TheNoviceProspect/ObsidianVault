@@ -104,7 +104,7 @@ If you wanted to you could also add my full config
 :config
 (load-theme 'darcula t)
 ; and set a default font
-(set-frame-font "Victor Mono-12"))
+(set-frame-font "Liberation Mono-12"))
 
 ; Some user options for line numbers
 (custom-set-variables

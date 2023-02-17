@@ -165,10 +165,10 @@
   },
   "active": "fd7e3846102c0c54",
   "lastOpenFiles": [
-    "Common Setups/Linux machine setup.md",
-    "Common Setups/Emacs Setup.md",
     "Common Setups/Neofetch Setup.md",
     "Common Setups/Nextcloud setup.md",
+    "Common Setups/Emacs Setup.md",
+    "Common Setups/Linux machine setup.md",
     "TODO.md",
     "Common Setups/Webhost Setup/ISPConfig.md",
     "Common Setups/Docker/Docker compose on SystemD.md",
