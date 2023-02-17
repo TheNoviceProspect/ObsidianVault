@@ -40,7 +40,7 @@ Here's a quick and dirty setup you can just add below the above config in `init.
 (use-package darcula-theme
 :ensure t
 :config
-(set-frame-font "VictorMono-12")
+(set-frame-font "Liberation Mono-12")
 (load-theme 'darcula t))
 ```
 
