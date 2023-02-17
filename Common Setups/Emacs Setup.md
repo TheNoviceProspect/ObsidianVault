@@ -103,6 +103,7 @@ If you wanted to you could also add my full config
 ; Some user options for line numbers
 (custom-set-variables
  '(display-line-numbers 'visual)
+ '(initial-buffer-choice "~/workspace/")
  '(package-selected-packages '(darcula-theme use-package)))
 
 (custom-set-faces
