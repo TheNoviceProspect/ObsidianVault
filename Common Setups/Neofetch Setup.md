@@ -1,3 +1,5 @@
+Replace the contents of `~/.config/neofetch/config.conf`
+with this block
 ```
 # See this wiki page for more info:
 # https://github.com/dylanaraps/neofetch/wiki/Customizing-Info

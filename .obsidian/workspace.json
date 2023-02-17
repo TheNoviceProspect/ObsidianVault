@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Setups/Docker/Docker compose on SystemD.md",
+                "file": "Common Setups/Reverse Proxy Setup/Nginx Setup.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Common Setups/Docker/Docker compose on SystemD.md",
+                "file": "Common Setups/Reverse Proxy Setup/Nginx Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Common Setups/Docker/Docker compose on SystemD.md",
+                "file": "Common Setups/Reverse Proxy Setup/Nginx Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Common Setups/Docker/Docker compose on SystemD.md"
+                "file": "Common Setups/Reverse Proxy Setup/Nginx Setup.md"
               }
             }
           }
@@ -165,15 +165,15 @@
   },
   "active": "fd7e3846102c0c54",
   "lastOpenFiles": [
+    "Common Setups/SQL stuff.md",
+    "Common Setups/Nextcloud setup.md",
+    "Common Setups/Neofetch Setup.md",
     "Common Setups/Emacs Setup.md",
     "Common Setups/Docker/Docker compose on SystemD.md",
-    "Common Setups/Neofetch Setup.md",
     "Common Setups/Linux machine setup.md",
-    "Common Setups/Nextcloud setup.md",
     "TODO.md",
     "Common Setups/Webhost Setup/ISPConfig.md",
     "Common Setups/Reverse Proxy Setup/Nginx Setup.md",
-    "CodeWars/Completed Katas CSharp.md",
-    "CodeWars/Completed Solutions/Convert a String to a Number Solution.md"
+    "CodeWars/Completed Katas CSharp.md"
   ]
 }
