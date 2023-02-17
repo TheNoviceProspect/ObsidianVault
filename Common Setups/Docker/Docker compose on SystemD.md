@@ -14,8 +14,8 @@ After=docker.service
 Type=oneshot
 RemainAfterExit=true
 WorkingDirectory=/etc/docker/compose/%i
-ExecStart=/usr/local/bin/docker-compose up -d --remove-orphans
-ExecStop=/usr/local/bin/docker-compose down
+ExecStart=/usr/local/bin/docker compose up -d --remove-orphans
+ExecStop=/usr/local/bin/docker compose down
 
 [Install]
 WantedBy=multi-user.target

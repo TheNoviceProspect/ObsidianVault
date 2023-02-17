@@ -113,7 +113,7 @@ If you wanted to you could also add my full config
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(display-line-numbers 'visual) ;; This sets relative line numbers
- '(initial-buffer-choice t)      :: This sets the initial buffer to the *scratch* buffer
+ '(initial-buffer-choice t)      ;; This sets the initial buffer to the *scratch* buffer
  '(package-selected-packages
    '(helpful magithub magit darcula-theme use-package)))  ;; Install some needed packages
 
