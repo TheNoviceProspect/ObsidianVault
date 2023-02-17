@@ -77,7 +77,12 @@ If you wanted to you could also add my full config
       delete-old-versions t  ; Clean up the backups                             
       version-control t      ; Use version numbers on backups,                  
       kept-new-versions 5    ; keep some new versions                           
-      kept-old-versions 2)   ; and some old ones, too     
+      kept-old-versions 2)   ; and some old ones, too
+
+; Set emacs to remember last editing positions
+(setq save-place-file "~/.emacs.d/saveplace")
+(setq-default save-place t)
+(require 'saveplace)
 
 ; Setup Melpa as a package archive and enable the 'use-package' function
 (require 'package)

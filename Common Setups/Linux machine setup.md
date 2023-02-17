@@ -62,6 +62,7 @@ to ~/.zshrc at the end.
 
 And now for a little *pizzaz*
 ```bash
+echo "alias cls=\"clear;neofetch|lolcat\"" >> ~/.zshrc-personal
 echo "clear;neofetch|lolcat" >> ~/.zshrc-personal
 ```
 

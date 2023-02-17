@@ -52,6 +52,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Common Setups/Emacs Setup.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd7e3846102c0c54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Common Setups/Linux machine setup.md",
                 "mode": "source",
                 "backlinks": true,
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -203,17 +216,17 @@
       "meld-encrypt:Create new encrypted note": false
     }
   },
-  "active": "881e9ff9cd4032f4",
+  "active": "fd7e3846102c0c54",
   "lastOpenFiles": [
+    "Common Setups/Neofetch Setup.md",
     "Common Setups/Emacs Setup.md",
+    "Common Setups/Linux machine setup.md",
     "Common Setups/Nextcloud setup.md",
     "TODO.md",
     "Common Setups/Webhost Setup/ISPConfig.md",
-    "Common Setups/Linux machine setup.md",
     "Common Setups/Docker/Docker compose on SystemD.md",
     "Common Setups/Reverse Proxy Setup/Nginx Setup.md",
     "CodeWars/Completed Katas CSharp.md",
-    "CodeWars/Completed Solutions/Convert a String to a Number Solution.md",
-    "CodeWars/Completed Solutions/Invert Values Solution.md"
+    "CodeWars/Completed Solutions/Convert a String to a Number Solution.md"
   ]
 }
