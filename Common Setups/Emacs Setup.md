@@ -61,9 +61,8 @@ If you wanted to you could also add my full config
 
 # Example Config
 ```el
-;; Put backup files neatly away                                                 
 (let ((backup-dir "~/.emacs.d/backups")
-      (auto-saves-dir "~/.emacs.d/auto-saves/"))
+      (auto-saves-dir "~/.emacs.d/auto-saves/"))               ;; Put backup files neatly away
   (dolist (dir (list backup-dir auto-saves-dir))
     (when (not (file-directory-p dir))
       (make-directory dir t)))
@@ -78,16 +77,11 @@ If you wanted to you could also add my full config
       kept-new-versions 5    ; keep some new versions                           
       kept-old-versions 2)   ; and some old ones, too     
 
-;; Make sure we only have to answer with y or n
-(defalias 'yes-or-no-p 'y-or-n-p)
-
-;; Set emacs to remember last editing positions
-(setq-default save-place-mode 1)
-;; And where to place the marker-file
-(setq save-place-file "~/.emacs.d/saveplace")
-
-;; Maximise(if we can) the window initially
-(add-to-list 'default-frame-alist '(fullscreen . maximized))
+(defalias 'yes-or-no-p 'y-or-n-p)                             ;; Make sure we only have to answer with y or n
+(setq-default save-place-mode 1)                              ;; Set emacs to remember last editing positions
+(setq save-place-file "~/.emacs.d/saveplace")                 ;; And where to place the marker-file
+(setq inhibit-startup-screen t)                               ;; prevent normal start behavior
+(add-to-list 'default-frame-alist '(fullscreen . maximized))  ;; Maximise(if we can) the window initially
 
 ; Setup Melpa as a package archive and enable the 'use-package' function
 (require 'package)
@@ -113,7 +107,6 @@ If you wanted to you could also add my full config
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(display-line-numbers 'visual) ;; This sets relative line numbers
- '(initial-buffer-choice t)      ;; This sets the initial buffer to the *scratch* buffer
  '(package-selected-packages
    '(helpful magithub magit darcula-theme use-package)))  ;; Install some needed packages
 
