@@ -84,4 +84,5 @@ sudo apt update; sudo apt upgrade -yq; sudo apt dist-upgrade -yq; sudo apt full-
 git config --global user.email "<email>"
 git config --global user.name "<Your full name>"
 git config --global init.defaultBranch main
+git config --global pull.rebase false
 ```
