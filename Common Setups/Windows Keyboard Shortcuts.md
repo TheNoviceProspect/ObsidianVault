@@ -10,7 +10,8 @@ Whenever you see **\=\=** we mean to say "This key combination is the *same* as 
 |**CTRL**+**X**|Cut selected or highlighted item.|
 |**CTRL**+**Z**|Undo previous action.|
 |**CTRL**+**Y**|Redo action.|
-|**CTRL**+**N**|When File Explorer is your current window, open a new File Explorer window with the same folder path as the current window.|
+|**CTRL**+**N**|When in File Explorer, open a new File Explorer window with the same folder path as the current window.|
+|**CTRL**+**Shift**+**N**|When in File Explorer, create a new folder (named "New Folder") ready to be (re)named as if F2 was pressed.|
 |**WIN**+**F1**|Open "how to get help in windows" Bing search in default browser.|
 |**ALT**+**F4**|Close the current app or window.|
 |**ALT**+**Tab**|Switch between open apps or windows.|
