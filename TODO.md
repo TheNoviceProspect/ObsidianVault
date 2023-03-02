@@ -4,10 +4,3 @@
 
 v=spf1 mx include:_spf.porkbun.com include:spf.sendinblue.com mx ~all
 - need to add our own mailserver spf for web.tnp.me.uk
-
-
-## Future Stream Checklist
-
-- Look into creating a simple seedbox
-- look into finding an AD distribution
-- try to remember the name of the blasted cloud AD service that allows us to share the ldap.
