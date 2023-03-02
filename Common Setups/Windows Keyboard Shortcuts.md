@@ -1,3 +1,6 @@
+Whenever you see **\|\|** in this table we mean to say "one button *or* the other"
+Whenever you see **\=\=** we mean to say "This key combination is the *same* as the other key combination"
+
 ## Basic Shortcuts
 |Shortcut|Function|
 |:--------|:--------|
@@ -16,7 +19,7 @@
 ## Start menu and Taskbar
 |Shortcut|Function|
 |:--------|:--------|
-|WIN == CTRL**+**Esc**|Open Start menu.
+|**WIN == CTRL**+**Esc**|Open Start menu.
 |**WIN**+**X**|Open the [secret Start menu](https://www.cnet.com/tech/computing/windows-10s-secret-start-menu/).
 |**WIN**+**T**|Cycle through the apps (including pinned apps) on the taskbar.
 |**WIN**+**[Number]**|Open the app pinned in the [number] position on the taskbar. For example, if you have Edge pinned in the first position on the taskbar and you click **WIN**+**1**, Edge will open. If the app is already open, a new instance\|\|window will open.
