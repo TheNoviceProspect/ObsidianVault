@@ -29,7 +29,7 @@ modification date: Thursday 2nd March 2023 10:11:54
 **This checklist need to be check before *EVERY* recording/stream**
 -smzb
 
-- try to remember the name of the blasted cloud AD service that allows us to share the ldap.
+- ~~try to remember the name of the blasted cloud AD service that allows us to share the ldap.~~ Jumpcloud (I'm sure)
 
 The Novice Prospect tries to imitate ActiveDirectory on Linux
 

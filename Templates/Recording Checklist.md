@@ -17,7 +17,9 @@ modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %
 - [ ] Check MiraBox Capture Audio level
 - [ ] Check Camera is enabled and visible
 - [ ] Check video capture is enabled and visible
-- [ ] StreamCtrl on Android running and connected
+- [ ] Ensure 6-key extension keyboard is plugged in and programmed
+- [ ] VMs prepared
+- [ ] Browsers sanitized
 - [ ] Game Loaded
   - [ ] {Multiplayer} Loaded into world
   - [ ] {Single player} Loaded into save and paused
