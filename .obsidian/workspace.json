@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "b031a8753184494c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Common Setups/Windows Keyboard Shortcuts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ea5b8da5ffa34889",
             "type": "leaf",
             "state": {
@@ -32,21 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e031bce0ff4d564d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ChatGPT/The Good/Explain dependency injection in csharp.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Streaming/Checklists/Recording Checklist - Mar02-2023.md",
+                "file": "Common Setups/Windows Keyboard Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Streaming/Checklists/Recording Checklist - Mar02-2023.md",
+                "file": "Common Setups/Windows Keyboard Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Streaming/Checklists/Recording Checklist - Mar02-2023.md"
+                "file": "Common Setups/Windows Keyboard Shortcuts.md"
               }
             }
           }
@@ -189,10 +190,10 @@
       "meld-encrypt:Create new encrypted note": false
     }
   },
-  "active": "e15e15dce951bf1a",
+  "active": "b031a8753184494c",
   "lastOpenFiles": [
-    "Common Setups/Windows Keyboard Shortcuts.md",
     "Streaming/Checklists/Recording Checklist - Mar02-2023.md",
+    "Common Setups/Windows Keyboard Shortcuts.md",
     "TODO.md",
     "Common Setups/Linux machine setup.md",
     "Common Setups/Emacs Setup.md",

@@ -3,7 +3,7 @@ Whenever you see **\=\=** we mean to say "This key combination is the *same* as 
 
 ## Basic Shortcuts
 |Shortcut|Function|
-|:--------|:--------|
+|:--------|:--------:|
 |**CTRL**+**A**|Select all items in a window.|
 |**CTRL**+**C** == **CTRL**+**Insert**|Copy selected or highlighted item (text, images and so on).|
 |**CTRL**+**V** == **Shift**+**Insert**|Paste selected or highlighted item.
@@ -19,7 +19,7 @@ Whenever you see **\=\=** we mean to say "This key combination is the *same* as 
 
 ## Start menu and Taskbar
 |Shortcut|Function|
-|:--------|:--------|
+|:--------|:--------:|
 |**WIN == CTRL**+**Esc**|Open Start menu.
 |**WIN**+**X**|Open the "secret Start menu".
 |**WIN**+**T**|Cycle through the apps (including pinned apps) on the taskbar.
@@ -29,7 +29,7 @@ Whenever you see **\=\=** we mean to say "This key combination is the *same* as 
 
 ## Screenshots
 |Shortcut|Function|
-|:--------|:--------|
+|:--------|:--------:|
 |**PrtScn**|Take a screenshot of your entire screen and save it to your clipboard.|
 |**WIN**+**PrtScn**|Take a screenshot of your entire desktop and save it to a folder on your computer.|
 |**WIN**+**Shift**+**S**|Open Snipping Tool menu to take a screenshot of only a section of your screen.|
@@ -37,7 +37,7 @@ Whenever you see **\=\=** we mean to say "This key combination is the *same* as 
 
 ## Windows, Snap Assist and Virtual Desktops
 |Shortcut|Function|
-|:--------|:--------|
+|:--------|:--------:|
 |**WIN**+**M**|Minimize all open windows.|
 |**WIN**+**Shift**+**M**|Restore minimized windows.|
 |**WIN**+**Home**|Minimize all windows except the selected or currently active window.|
@@ -57,7 +57,7 @@ Whenever you see **\=\=** we mean to say "This key combination is the *same* as 
 
 ## The Windows Key
 |Shortcut|Function|
-|:--------|:--------|
+|:--------|:--------:|
 |**WIN+A**|Open the Action Center.|
 |**WIN+S \=\= WIN+Q**|Open Cortana in text mode, so you can type in the search bar.|
 |**WIN+C**|Open Cortana in listening mode (similar to saying "Hey, Cortana").|
@@ -79,7 +79,7 @@ Whenever you see **\=\=** we mean to say "This key combination is the *same* as 
 
 ## The F Keys
 |Shortcut|Function|
-|:--------|:--------|
+|:--------|:--------:|
 |**F2**|Rename a selected item.|
 |**F3**|Quickly search for files in File Explorer.|
 |**F4**|Highlight the address bar in File Explorer.|
