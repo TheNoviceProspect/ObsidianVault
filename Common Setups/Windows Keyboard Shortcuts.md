@@ -1,4 +1,5 @@
 Whenever you see **\|\|** in this table we mean to say "one button *or* the other"
+
 Whenever you see **\=\=** we mean to say "This key combination is the *same* as the other key combination"
 
 ## Basic Shortcuts
