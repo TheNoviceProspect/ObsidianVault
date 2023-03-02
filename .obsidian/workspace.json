@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Setups/Linux machine setup.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Common Setups/Linux machine setup.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Common Setups/Linux machine setup.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Common Setups/Linux machine setup.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -191,8 +191,8 @@
   },
   "active": "fd7e3846102c0c54",
   "lastOpenFiles": [
-    "Common Setups/Emacs Setup.md",
     "Common Setups/Linux machine setup.md",
+    "Common Setups/Emacs Setup.md",
     "ChatGPT/The Good/Explain dependency injection in csharp.md",
     "ChatGPT/The Ugly",
     "ChatGPT/The Bad",
