@@ -1,14 +1,5 @@
 {
-  "obsidian-git:commit": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod",
-        "Shift"
-      ],
-      "key": "4"
-    }
-  ],
+  "obsidian-git:commit": [],
   "obsidian-git:pull": [
     {
       "modifiers": [

@@ -7,7 +7,7 @@ modification date: Thursday 2nd March 2023 10:11:54
 ### Pre-Recording
 - [x] Hydration available ✅ 2023-03-02
 - [x] Visibility/Glare ✅ 2023-03-02
-- [ ] W/C?
+- [x] W/C? ✅ 2023-03-02
 
 ### Recording setup
 - [x] At least 2x space available on D: ✅ 2023-03-02
@@ -30,15 +30,3 @@ modification date: Thursday 2nd March 2023 10:11:54
 -smzb
 
 - ~~try to remember the name of the blasted cloud AD service that allows us to share the ldap.~~ Jumpcloud (I'm sure)
-
-The Novice Prospect tries to imitate ActiveDirectory on Linux
-
-Support my work: https://www.patreon.com/TheNoviceProspect
-                                https://ko-fi.com/thenoviceprospect
-                                https://paypal.me/mitoskalandiel
-
-Join our Discord Community : https://discord.gg/PxwYcGzYMC
-
-Today we are looking into taking down our dreaded install of yosemite (our Active Directory Server) and replacing it with an Open Source Solution.
-
-While I have done sort of thing before, as usual the outcome may be variable :)
