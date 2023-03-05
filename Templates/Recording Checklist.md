@@ -14,7 +14,7 @@ modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %
 - [ ] Check Mic is set to VoiceMod
   - [ ] (Optional:) Check that VoiceMod has the Clean voice enabled
 - [ ] Check Mic audio levels
-- [ ] Check MiraBox Capture Audio level
+- [ ] Check MiraBox Capture Audio level / Desktop Audio level
 - [ ] Check Camera is enabled and visible
 - [ ] Check video capture is enabled and visible
 - [ ] Ensure 6-key extension keyboard is plugged in and programmed
@@ -28,5 +28,5 @@ modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %
 - [ ] Have you scheduled a stream?
 - [ ] Ensure you've selected and setup the stream in OBS as a Broadcast
 
-**This checklist need to be check before *EVERY* recording/stream**
+**This checklist needs to be checked before *EVERY* recording/stream**
 -smzb

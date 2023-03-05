@@ -4,63 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "eecf1d1af5ab955e",
+        "id": "a4351e70cd3ffdd2",
         "type": "tabs",
         "children": [
           {
-            "id": "e15e15dce951bf1a",
+            "id": "4ec174eaa1aa41b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Streaming/Checklists/Recording Checklist - Mar02-2023.md",
+                "file": "Streaming/Checklists/Recording Checklist - Mar05-2023.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b031a8753184494c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Common Setups/Emacs Setup.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0209430be0ba504a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Common Setups/Zentyal Management.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea5b8da5ffa34889",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Common Setups/Emacs Setup.md",
-                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,20 +57,7 @@
             }
           },
           {
-            "id": "0401799563c8b2c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Streaming/Checklists/Recording Checklist - Jan19-2023.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "262a5078570f617e",
+            "id": "91dbce47be44df8e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -120,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -140,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Common Setups/Zentyal Management.md",
+                "file": "Streaming/Checklists/Recording Checklist - Mar05-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Common Setups/Zentyal Management.md",
+                "file": "Streaming/Checklists/Recording Checklist - Mar05-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Common Setups/Zentyal Management.md"
+                "file": "Streaming/Checklists/Recording Checklist - Mar05-2023.md"
               }
             }
           }
@@ -203,13 +150,15 @@
       "meld-encrypt:Create new encrypted note": false
     }
   },
-  "active": "0209430be0ba504a",
+  "active": "4ec174eaa1aa41b1",
   "lastOpenFiles": [
+    "Templates/Recording Checklist.md",
+    "Streaming/Checklists/Recording Checklist - Mar05-2023.md",
     "Common Setups/Emacs Setup.md",
+    "Streaming/Checklists/Recording Checklist - Mar02-2023.md",
+    "Streaming/Checklists/Recording Checklist - Jan19-2023.md",
     "Common Setups/Zentyal Management.md",
     "Common Setups/Linux machine setup.md",
-    "Streaming/Checklists/Recording Checklist - Mar02-2023.md",
-    "Templates/Recording Checklist.md",
     "Common Setups/Windows Keyboard Shortcuts.md",
     "TODO.md",
     "ChatGPT/The Good/Explain dependency injection in csharp.md",
