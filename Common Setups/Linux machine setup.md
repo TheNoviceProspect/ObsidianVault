@@ -85,4 +85,5 @@ git config --global user.email "<email>"
 git config --global user.name "<Your full name>"
 git config --global init.defaultBranch main
 git config --global pull.rebase false
+git config --global core. editor "emacs" <- your favorite editor here!!!
 ```
